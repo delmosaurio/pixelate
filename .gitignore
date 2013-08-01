@@ -12,6 +12,10 @@
 *.dylib
 
 # Executables
+bin
 *.exe
 *.out
 *.app
+
+# Test Outputs
+test/resultado*
