@@ -57,6 +57,7 @@ Informacion adicional:
 
 ## Ayuda
 
+```
                       PIXELATE
 
       -= Copyright 2008 'Grupo 11 - Taller C' =-
@@ -86,6 +87,7 @@ Informacion adicional:
    -i ENTRADA             - Especifica el nombre del archivo de imagen con el cual se trabajara.
                             Si no se indica el archivo de salida y se guardara por defecto como
                             out.ext.
+```
  
 ## Copyright
 
