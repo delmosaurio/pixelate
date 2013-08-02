@@ -60,7 +60,9 @@ Informacion adicional:
 ```
                       PIXELATE
 
-      -= Copyright 2008 'Grupo 11 - Taller C' =-
+      Copyright (c) 2008 Delmo Carrozzo <dcardev@gmail.com>
+      
+      2008 'Grupo 11 - Taller C'
 
    Pixelate una sencilla interfaz de línea de órdenes para manipular archivos
    de imágenes, desarrollado como trabajo final para la materia
